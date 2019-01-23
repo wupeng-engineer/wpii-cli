@@ -1,7 +1,7 @@
 {
   "name": "wpii-cli",
   "version": "1.0.0",
-  "description": "node脚手架",
+  "description": "node搭建脚手架",
   "bin": {
     "wpii": "index.js"
   },
